@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-82-react-node-AlexGoIT/static/css/main.c1f6657d.css",
-    "main.js": "/fs-82-react-node-AlexGoIT/static/js/main.d469cd3f.js",
+    "main.js": "/fs-82-react-node-AlexGoIT/static/js/main.c5a7ab82.js",
     "static/js/238.0560ce51.chunk.js": "/fs-82-react-node-AlexGoIT/static/js/238.0560ce51.chunk.js",
     "static/js/966.9bda2300.chunk.js": "/fs-82-react-node-AlexGoIT/static/js/966.9bda2300.chunk.js",
     "static/js/561.35ae495f.chunk.js": "/fs-82-react-node-AlexGoIT/static/js/561.35ae495f.chunk.js",
@@ -29,7 +29,7 @@
     "static/media/welcome_background_1x_mob.jpg": "/fs-82-react-node-AlexGoIT/static/media/welcome_background_1x_mob.b3056d15120c26fdecc4.jpg",
     "index.html": "/fs-82-react-node-AlexGoIT/index.html",
     "main.c1f6657d.css.map": "/fs-82-react-node-AlexGoIT/static/css/main.c1f6657d.css.map",
-    "main.d469cd3f.js.map": "/fs-82-react-node-AlexGoIT/static/js/main.d469cd3f.js.map",
+    "main.c5a7ab82.js.map": "/fs-82-react-node-AlexGoIT/static/js/main.c5a7ab82.js.map",
     "238.0560ce51.chunk.js.map": "/fs-82-react-node-AlexGoIT/static/js/238.0560ce51.chunk.js.map",
     "966.9bda2300.chunk.js.map": "/fs-82-react-node-AlexGoIT/static/js/966.9bda2300.chunk.js.map",
     "561.35ae495f.chunk.js.map": "/fs-82-react-node-AlexGoIT/static/js/561.35ae495f.chunk.js.map",
@@ -45,6 +45,6 @@
   },
   "entrypoints": [
     "static/css/main.c1f6657d.css",
-    "static/js/main.d469cd3f.js"
+    "static/js/main.c5a7ab82.js"
   ]
 }
