@@ -16,7 +16,7 @@ root.render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={<Loader />} persistor={persistor}>
-        <BrowserRouter basename="/project-V3w84M">
+        <BrowserRouter basename="/fs-82-react-node-AlexGoIT">
           <App />
         </BrowserRouter>
       </PersistGate>
